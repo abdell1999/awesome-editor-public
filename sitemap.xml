@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://editor.abdell.dev/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://editor.abdell.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://editor.abdell.dev/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://editor.abdell.dev/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://editor.abdell.dev/de/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://editor.abdell.dev/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://editor.abdell.dev/"/>
+  </url>
+  <url>
+    <loc>https://editor.abdell.dev/en/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://editor.abdell.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://editor.abdell.dev/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://editor.abdell.dev/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://editor.abdell.dev/de/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://editor.abdell.dev/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://editor.abdell.dev/"/>
+  </url>
+  <url>
+    <loc>https://editor.abdell.dev/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://editor.abdell.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://editor.abdell.dev/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://editor.abdell.dev/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://editor.abdell.dev/de/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://editor.abdell.dev/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://editor.abdell.dev/"/>
+  </url>
+  <url>
+    <loc>https://editor.abdell.dev/de/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://editor.abdell.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://editor.abdell.dev/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://editor.abdell.dev/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://editor.abdell.dev/de/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://editor.abdell.dev/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://editor.abdell.dev/"/>
+  </url>
+  <url>
+    <loc>https://editor.abdell.dev/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://editor.abdell.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://editor.abdell.dev/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://editor.abdell.dev/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://editor.abdell.dev/de/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://editor.abdell.dev/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://editor.abdell.dev/"/>
+  </url>
+</urlset>
